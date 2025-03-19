@@ -2,7 +2,7 @@
 from pathlib import Path
 
 from IPython.display import clear_output, Image, display, HTML
-import moviepy.editor as mpy
+import moviepy as mpy
 
 import sys
 
